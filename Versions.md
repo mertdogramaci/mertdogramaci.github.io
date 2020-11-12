@@ -3,17 +3,17 @@ V1.1 Patch Notes:
   
     - Created "Homepage".
     
-              - Added "Mert Doğramacı / A Curious Developer" text.
-            
-              - Added a selfie.
-            
-              - Added main menu.
-            
-              - Added social media accounts.
+    - Added "Mert Doğramacı / A Curious Developer" text at "Homepage".
+    
+    - Added a selfie at "Homepage".
+    
+    - Added main menu at "Homepage".
+    
+    - Added social media accounts at "Homepage".
   
     - Created "Contact" page.
     
-            - Added current location, e-mail and twitter account for communicate.
+    - Added current location, e-mail and twitter account for communicate at "Contact" page.
   
     - Created every page and their menu part.
 
