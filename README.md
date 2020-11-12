@@ -1,6 +1,6 @@
 # mertdogramaci.github.io
 V1.1 Patch Notes:
-  -Site created.\n
+  -Site created
   -Created "Homepage".
   -Created "Contact" page.
   -Created every pages menu part.
