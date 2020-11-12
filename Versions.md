@@ -21,10 +21,10 @@ V1.1 Patch Notes:
 
 V1.2 Patch Notes:
 
-    - Updated "About" page.
+    - Added a text about myself at "About" page.
   
     - Added a version text at "Homepage"s bottom side.
   
-    - Twitter icon update.
+    - "Homepages"s Twitter icon updated.
   
     - Added a page icon for browser.
