@@ -15,7 +15,7 @@ V1.1 Patch Notes:
     
     - Added current location, e-mail and twitter account for communication at "Contact" page.
   
-    - Created "About", "Skills", "Work Experience", "Certificates" and "CV" pages and their menu parts.
+    - Created "About", "Skills", "Work Experience" and "Certificates" pages and their menu parts.
 
 
 
