@@ -9,6 +9,6 @@ V1.1 Patch Notes:
 
 V1.2 Patch Notes:
   -Added "About" page.
-  -Added version writing at "Homepage"s bottom side.
+  -Added a version text at "Homepage"s bottom side.
   -Twitter icon update.
   -Added a page icon for browser.
