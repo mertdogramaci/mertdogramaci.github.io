@@ -6,7 +6,8 @@ V1.1 Patch Notes:
   -Created every pages menu part.
   -Added a selfie at "Homepage".
   -Added social media accounts at "Homepage".
+
 V1.2 Patch Notes:
   -Added "About" page.
-  -Added Version writing at page's bottom side.
+  -Added version writing at "Homepage"s bottom side.
   -Twitter icon update.
