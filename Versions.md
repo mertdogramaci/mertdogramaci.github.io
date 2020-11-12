@@ -1,26 +1,30 @@
 # mertdogramaci.github.io Patch Notes
 V1.1 Patch Notes:
-
-    -Site created
   
-    -Created "Homepage".
+    - Created "Homepage".
+    
+            - Added "Mert Doğramacı / A Curious Developer" text.
+            
+            - Added a selfie.
+            
+            - Added main menu.
+            
+            - Added social media accounts.
   
-    -Created "Contact" page.
+    - Created "Contact" page.
+    
+            - Added current location, e-mail and twitter account for communicate.
   
-    -Created every page and their menu part.
-  
-    -Added a selfie at "Homepage".
-  
-    -Added social media accounts at "Homepage".
+    - Created every page and their menu part.
 
 
 
 V1.2 Patch Notes:
 
-    -Updated "About" page.
+    - Updated "About" page.
   
-    -Added a version text at "Homepage"s bottom side.
+    - Added a version text at "Homepage"s bottom side.
   
-    -Twitter icon update.
+    - Twitter icon update.
   
-    -Added a page icon for browser.
+    - Added a page icon for browser.
