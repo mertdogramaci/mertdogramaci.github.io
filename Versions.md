@@ -7,7 +7,7 @@ V1.1 Patch Notes:
   
     -Created "Contact" page.
   
-    -Created every pages menu part.
+    -Created every page and their menu part.
   
     -Added a selfie at "Homepage".
   
@@ -17,7 +17,7 @@ V1.1 Patch Notes:
 
 V1.2 Patch Notes:
 
-    -Added "About" page.
+    -Updated "About" page.
   
     -Added a version text at "Homepage"s bottom side.
   
