@@ -1,25 +1,27 @@
 body {
     background-color: #fff;
+    margin: 1px;
 }
 
 ul {
     list-style: none;
-    padding-inline-start: 0%;
+    padding-inline-start: 0px;
 }
 
 footer {
-    padding-top: 2%;
+    margin-top: 100px;
 }
 
 footer p {
-    margin: 0.3%;
+    margin: 1px;
     text-align: center;
 }
 
 h1 {
     text-align: center;
     font-size: 200%;
-    line-height: 0%;
+    margin-top: 150px;
+    margin-bottom: 0px;
 }
 
 a {
@@ -27,37 +29,60 @@ a {
     color: #000000;
 }
 
+a:hover {
+    transition-property: color;
+    color: rgb(0, 17, 255);
+}
+
 .main_menu {
-    text-align: center;
+    text-align: center !important;
     display: inline-block;
-    height: 850px;
-    width: 12%;
-    padding: 2%;
+    height: 800px;
+    width: 230px;
+    padding: 40px;
     border-style: ridge;
     background-color: #f0f8ff;
     font-weight: bold;
     font-size: larger;
 }
 
-.main_menu h2 {
-    font-weight: bold;
-}
-
-.main_menu li {
-    padding: 5%;
+.main_menu a:hover {
+    transition-property: color;
+    color: #000;
 }
 
 .page {
     position: absolute;
     display: inline-block;
     width: 72%;
+    padding: 43px;
+    height: 800px;
+}
+
+.main_menu img {
+    width: 200px;
+}
+
+.main_menu h2 {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.main_menu li {
     padding: 5%;
+}
+
+.main_menu a {
+    color: #484848;
 }
 
 .page h2 {
     color: #ccb78f;
     text-align: center;
     font-size: 200%;
+    margin-top: 10px;
+    margin-bottom: 50px;
 }
 
 #social_media {
@@ -69,7 +94,9 @@ p a {
 }
 
 #about {
-    font-size:x-large;
+    font-size: larger;
+    padding: 100px;
+    padding-right: 200px;
 }
 
 #contact {
