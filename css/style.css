@@ -48,8 +48,8 @@ a:hover {
 
 .main_menu a:hover {
     transition-property: color;
-    color: #fff;
-    background-color: #000000;
+    color: #000;
+    border: solid #000;
 }
 
 .page {
@@ -75,8 +75,8 @@ a:hover {
 }
 
 .main_menu a {
-    color: #000000;
-    padding: 1%;
+    color: #636363;
+    padding: 2%;
 }
 
 .page h2 {
