@@ -135,3 +135,9 @@ p a {
 #date{
     margin-block-start: 5px;
 }
+
+#skill {
+    display: inline-block; 
+    width:500px; 
+    vertical-align:top
+}
